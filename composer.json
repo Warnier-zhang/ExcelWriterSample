@@ -1,0 +1,6 @@
+{
+  "require": {
+    "phpoffice/phpexcel": "^1.8",
+    "snippet/excelwriter": "1.0.0rc1"
+  }
+}
